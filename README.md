@@ -2,6 +2,8 @@
 
 A Comprehensive Toolbox for Mastery in String Operations Across Programming Paradigms 🚀🔍
 
+🚀 #TextProcessing #TextProcessing #ProgrammingSkills #DevTools #DevHacks #TechTips #OpenSource
+
 ![StringMasteryToolkit Logo](./string-mastery-toolkit.jpg)
 
 Welcome to StringMasteryToolkit, an open-source haven designed to empower beginner programmers on their journey to mastering string operations. This repository serves as a learning hub, offering a wide array of resources, examples, and hands-on exercises to enhance your proficiency in manipulating strings.
